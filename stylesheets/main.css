@@ -1,0 +1,45 @@
+h1 {border: 10px solid red; 
+    background: red;
+    color: white;
+    font-family: Verdana;}
+
+body {
+      background-color: white;
+      }
+
+#image1 {
+  object-position: 25px 30px;
+}
+
+#image2 {
+  position:relative;
+  left: 50px;
+  top: -275px;
+}
+
+#image5 {
+  position:relative;
+  left: 650px;
+  top: -250px;  
+}
+
+#image6 {
+  position:relative;
+  left: 500px;
+  top: -100px; 
+}
+
+h2 {border: 10px solid rgb(73, 71, 71); 
+    background:  rgb(73, 71, 71);
+    color: white;
+    font-family: Verdana;
+    font-size: 75%;
+    text-align: right;
+    }
+
+h3 {font-size: 100%;}
+
+p {font-size: 8;}
+
+  
+
