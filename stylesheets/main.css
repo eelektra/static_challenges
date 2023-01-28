@@ -1,5 +1,6 @@
 h1 {border: 10px solid red; 
     background: red;
+    font-size: 120%;
     color: white;
     font-family: Verdana;}
 
@@ -41,7 +42,7 @@ ul li {
 }
 
 h2 {
-  font-size: 100%;
+  font-size: 110%;
   font-family: Verdana;
   position: relative;
   left: 25px;
@@ -60,7 +61,7 @@ h3 {
   font-family: Verdana;
   position: relative;
   left: 650px;
-  top: -545px;
+  top: -540px;
   color: black;
 }
 
@@ -69,7 +70,7 @@ h4 {
   font-family: Verdana;
   position: relative;
   left: 650px;
-  top: -430px;
+  top: -420px;
   color: black;
 }
 
@@ -78,7 +79,7 @@ h5 {
   font-family: Verdana;
   position: relative;
   left: 650px;
-  top: -305px;
+  top: -290px;
   color: black;
 }
 
