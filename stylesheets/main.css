@@ -14,13 +14,13 @@ body {
 #image2 {
   position:relative;
   left: 50px;
-  top: -275px;
+  top: -270px;
 }
 
 #image5 {
   position:relative;
   left: 650px;
-  top: -250px;  
+  top: -240px;  
 }
 
 #image6 {
@@ -29,17 +29,58 @@ body {
   top: -100px; 
 }
 
-h2 {border: 10px solid rgb(73, 71, 71); 
+ul {border: 10px solid rgb(73, 71, 71); 
     background:  rgb(73, 71, 71);
-    color: white;
     font-family: Verdana;
     font-size: 75%;
     text-align: right;
-    }
+}
 
-h3 {font-size: 100%;}
+ul li {
+  color: white;
+}
 
-p {font-size: 8;}
+h2 {
+  font-size: 100%;
+  font-family: Verdana;
+  position: relative;
+  left: 25px;
+  top: -75px;
+}
+
+p {font-size: 100%;
+  font-family: Verdana;
+  position: relative;
+  left: 25px;
+  top: -70px;
+}
+
+h3 {
+  font-size: 75%;
+  font-family: Verdana;
+  position: relative;
+  left: 650px;
+  top: -545px;
+  color: black;
+}
+
+h4 {
+  font-size: 75%;
+  font-family: Verdana;
+  position: relative;
+  left: 650px;
+  top: -430px;
+  color: black;
+}
+
+h5 {
+  font-size: 75%;
+  font-family: Verdana;
+  position: relative;
+  left: 650px;
+  top: -305px;
+  color: black;
+}
 
   
 
